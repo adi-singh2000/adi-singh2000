@@ -84,7 +84,7 @@
 
 </div>
 
-<h2>📈 Stats 📉 : 
+<!-- <h2>📈 Stats 📉 : 
   <img src="https://komarev.com/ghpvc/?username=adi-singh2000&label=Profile%20views&color=AA336A&style=flat" alt="adi-singh2000"> 
 </h2>  
 
@@ -95,7 +95,7 @@
 
 <div align = 'center'>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adi-singh2000&theme=radical">
-</div>
+</div> -->
 
 <h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="30"> Connect with me :</h2>
 <div>
