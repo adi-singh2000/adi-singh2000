@@ -89,8 +89,8 @@
 </h2>  
 
 <div align = 'center'>
-  <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adi-singh2000&theme=radical" style="height: 230px"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-singh2000&theme=radical" style="height: 230px"/>
+  <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adi-singh2000&theme=radical" style="height: 200px"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-singh2000&theme=radical" style="height: 200px"/>
 </div>
 
 <div align = 'center'>
