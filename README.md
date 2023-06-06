@@ -89,9 +89,9 @@
 </h2>  
 
 <div align = 'center'>
-  <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adi-singh2000&theme=radical" style="height: 250px"/>
+  <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adi-singh2000&theme=radical" style="height: 230px"/>
   <img src="" align="center" alt="">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-singh2000&theme=radical" style="height: 250px"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-singh2000&theme=radical" style="height: 230px"/>
 </div>
 
 <div align = 'center'>
@@ -99,7 +99,7 @@
 </div>
 
 <h2><img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="30"> Connect with me :</h2>
-<div align = 'center'>
+<div>
     <a href = "mailto:adi.singh1069@gmail.com" target = "_blank">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
