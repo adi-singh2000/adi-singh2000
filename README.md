@@ -1,4 +1,29 @@
-### Hi there 👋
+
+<h1 align="center">नमस्ते (Namaste)🙏, I'm Aditya Singh</h1>
+
+<h3 align="center"> 🥸 Aspiring Data Scientist </h3>
+<br/>
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **adi-singh2000/adi-singh2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
