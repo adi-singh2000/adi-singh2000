@@ -5,7 +5,7 @@
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<img src="giphy.gif" align="right" width="300px">
+<img src="giphy.gif" align="right" width="290px">
 
 ⭐ Looking forward to start my professional career as a Data Analyst. <br><br>
 🌱 I’m currently learning **Data Analytics 📊**, **Machine Learning 🤖** & **Deep Learning  🧠**.<br><br>
