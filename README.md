@@ -1,14 +1,14 @@
 
 <h1 align="center">नमस्ते (Namaste)🙏, I'm Aditya Singh</h1>
 
-<h3 align="center"> 🥸 Aspiring Data Scientist </h3>
+<h3 align="center"> 🥸 Aspiring Data Analyst </h3>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <img src="giphy.gif" align="right" width="290px">
 
 ⭐ Looking forward to start my professional career as a Data Analyst. <br><br>
-🌱 I’m currently learning **Data Analytics 📊**, **Machine Learning 🤖** & **Deep Learning  🧠**.<br><br>
+🌱 I’m currently learning **Data Analytics 📊**<br><br>
 🤩 Fascinated by **Astronomical Data Science Studies 🌌**<br><br>
 🤔 I’m looking for help with Astronomical Data Science Studies<br><br>
 🚀 Love to talk about Astronomical Data Science.<br><br>
