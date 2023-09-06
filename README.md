@@ -1,7 +1,7 @@
 
 <h1 align="center">नमस्ते (Namaste)🙏, I'm Aditya Singh</h1>
 
-<h3 align="center"> 🥸 Aspiring Data Analyst </h3>
+<h3 align="center"> 🦶🏾 First Step Data Analyst, 🎯 Goal Data Scientist </h3>
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
