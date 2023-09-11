@@ -7,8 +7,8 @@
 
 <img src="giphy.gif" align="right" width="290px">
 
-⭐ Looking forward to start my professional career as a Data Analyst. <br><br>
-🌱 I’m currently learning **Data Analytics 📊**<br><br>
+⭐ Looking forward to start my professional career in any Data Science Field. <br><br>
+🌱 I’m currently learning **Data Science related tools and technique 📊**<br><br>
 🤩 Fascinated by **Astronomical Data Science Studies 🌌**<br><br>
 🤔 I’m looking for help with Astronomical Data Science Studies<br><br>
 🚀 Love to talk about Astronomical Data Science.<br><br>
